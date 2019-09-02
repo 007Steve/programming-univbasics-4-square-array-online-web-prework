@@ -7,3 +7,4 @@ while counter < array.length do
 end
 
  return new_array
+ end
